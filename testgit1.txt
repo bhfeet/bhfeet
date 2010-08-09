@@ -1,2 +1,7 @@
 test1
 test11
+edit in editplus
+
+edit again
+
+test git diff#test echo line

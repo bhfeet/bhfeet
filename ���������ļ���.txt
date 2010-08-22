@@ -1,0 +1,2 @@
+test chinese
+测试中文, 再次测试
